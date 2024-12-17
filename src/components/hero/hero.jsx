@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <div
-      className="w-screen h-screen flex-col xs:flex items-center justify-center overflow-y-hidden relative"
+      className="max-w-screen h-screen flex-col xs:flex items-center justify-center overflow-y-hidden relative"
     >
       <div
         className="w-full xs:w-[470px] sm:w-[550px] md:w-[700px] lg:w-[800px] xl:w-[1100px] mt-20 xs:mt-0 xs:ml-[40px] md:ml-[65px] flex justify-center xs:justify-between text-6xl md:text-8xl lg:text-8xl xl:text-9xl -z-10"
